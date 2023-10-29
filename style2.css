@@ -1,0 +1,11 @@
+img{
+    border-radius: 100%;
+}
+.Name{
+     text-align:center  ;
+     color: blue; 
+     padding-bottom: 10px;
+}
+.About{
+    font: size 10px;;
+}
